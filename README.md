@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Timothy Jhey Sarmiento</h1>
 <h3 align="center">A passionate Software Engineer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jheytim&label=Profile%20views&color=0e75b6&style=flat" alt="jheytim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jheytim" alt="jheytim" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jheytim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jheytim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swkde2ciqm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swkde2ciqm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
