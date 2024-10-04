@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jheytim&label=Profile%20views&color=0e75b6&style=flat" alt="jheytim" /> </p>
 
-- 🔭 I’m currently working on [task-saas-frontend](https://github.com/JheyTim/task-saas-frontend) & [task-saas-backend](https://github.com/JheyTim/task-saas-backend)
+- 🔭 I’m currently working on [healthcare-management-system](https://github.com/JheyTim/healthcare-management-system)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
