@@ -49,20 +49,7 @@ Backend Software Engineer passionate about building scalable APIs, distributed s
 - Vitest
 - Mocha
 - Jira
-
----
-
-## 📂 Featured Projects
-
-### Project Name
-Short description about what it does and the technologies used.
-
-### Project Name
-Short description about what it does and the technologies used.
-
-### Project Name
-Short description about what it does and the technologies used.
-
+- 
 ---
 
 ## 📊 GitHub Stats
