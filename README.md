@@ -10,39 +10,50 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### Backend
+- Node.js
 - TypeScript
 - JavaScript
 
-### Backend
-- Node.js
-- NestJS
+### Frameworks
 - Express.js
-- Socket.IO
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- DynamoDB
+- Serverless Framework
+- NestJS
 
 ### Cloud & DevOps
 - AWS
 - Docker
 - Kubernetes
+- GitLab CI/CD
+
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### ORMs
+- Mongoose
+- Sequelize
+- TypeORM
+
+### Security
+- JWT
+- RBAC
+- Bcrypt
+- OAuth 2.0
+
+### Messaging & Caching
+- Redis
 - RabbitMQ
 
-### Tools
+### Testing
+- Mocha
+- Chai
+- Vitest
+
+### Version Control
 - Git
 - GitLab
-- Postman
-- Swagger
-- ESLint
-- Prettier
-- Vitest
-- Mocha
-- Jira
 
 ## 🔥 Contribution Streak
 
