@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Timothy Jhey Sarmiento
 
-Backend Software Engineer passionate about building scalable APIs, distributed systems, and cloud-native applications with Node.js and TypeScript.
-
 ---
 
 ## 🚀 About Me
@@ -49,15 +47,6 @@ Backend Software Engineer passionate about building scalable APIs, distributed s
 - Vitest
 - Mocha
 - Jira
-- 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jheytim&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheytim&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
