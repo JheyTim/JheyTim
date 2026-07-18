@@ -8,8 +8,6 @@
 - 🌱 Currently learning more about distributed systems and cloud architecture
 - 📍 Philippines
 
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -45,8 +43,6 @@
 - Vitest
 - Mocha
 - Jira
-
----
 
 ## 🔥 Contribution Streak
 
