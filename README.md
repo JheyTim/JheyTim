@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Timothy Jhey Sarmiento
 
----
-
 ## 🚀 About Me
 
 - 💼 Backend Software Engineer
